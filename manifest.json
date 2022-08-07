@@ -1,0 +1,12 @@
+{
+    "version": "1.1",
+    "manifest_version": 3,
+    "name": "Link Mark",
+    "action":{
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
